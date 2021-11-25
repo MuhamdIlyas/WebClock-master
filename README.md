@@ -1,2 +1,1 @@
-# WebClock-master
-WebClock-master
+# WebClock
